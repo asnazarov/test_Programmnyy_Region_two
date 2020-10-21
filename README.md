@@ -1,6 +1,6 @@
 # test_Programmnyy_Region
 
-https://asnazarov.github.io/test_Programmnyy_Region2/app/
+https://asnazarov.github.io/test_Programmnyy_Region_two/app/
 ---
 
 ### О проекте
