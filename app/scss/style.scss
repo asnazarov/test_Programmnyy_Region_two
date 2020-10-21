@@ -1,0 +1,26 @@
+@import '_fonts.scss';
+@import '_global.scss';
+@import '_vars.scss';
+@import './header.scss';
+@import './action';
+@import './info.scss';
+@import './advertising.scss';
+@import './btnShowMoreWrapper.scss';
+@import './footer.scss';
+@import './UI/form.scss',
+'./UI/button.scss',
+'./UI/btnShowMore.scss';
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    color: red;
+    display: inline;
+}
